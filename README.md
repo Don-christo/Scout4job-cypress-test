@@ -1,0 +1,1 @@
+# Scout4job Cypress Test
